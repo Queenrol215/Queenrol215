@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Queenrol215
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning from ALX Software Engineering program
+- 📫 How to reach me queendavid21567@gmail.com
